@@ -8,10 +8,8 @@
 
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸 𝚠𝚘𝚛𝚔 𝚊𝚜 𝚊 𝚜𝚎𝚌𝚞𝚛𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛. 𝙸𝚗 𝚖𝚢 𝚜𝚙𝚊𝚛𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚟𝚘𝚕𝚞𝚗𝚝𝚎𝚎𝚛 𝚋𝚢 𝚝𝚎𝚊𝚌𝚑𝚒𝚗𝚐 𝚖𝚊𝚝𝚑𝚎𝚖𝚊𝚝𝚒𝚌𝚜 𝚝𝚘 𝚞𝚗𝚍𝚎𝚛𝚙𝚛𝚒𝚟𝚒𝚕𝚎𝚐𝚎𝚍 𝚜𝚝𝚞𝚍𝚎𝚗𝚝𝚜 𝚠𝚑𝚘 𝚌𝚊𝚗𝚗𝚘𝚝 𝚊𝚏𝚏𝚘𝚛𝚍 𝚊𝚗 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗, 𝚙𝚛𝚘𝚟𝚒𝚍𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜 𝚝𝚑𝚎𝚢 𝚍𝚎𝚜𝚎𝚛𝚟𝚎.
    <p align="left">
-      <a href="https://www.youtube.com/c/Mojitha Ranasingha?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCvpoCsk29Uer5Spn2qfulAA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/Mojitha Ranasingha">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCvpoCsk29Uer5Spn2qfulAA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+   <a href="https://www.linkedin.com/in/mojitha-ranasinghe-002358279/">
+      <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a>
       <a href="https://github.com/Mojitha Ranasingha?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">

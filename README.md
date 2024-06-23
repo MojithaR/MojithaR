@@ -61,7 +61,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="draw.io" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Dia_logo.png" />
   <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" />
   <img align="left" alt="Firefox" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
-  <img align="left" alt="Tor" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Tor-logo-2011-flat.svg" />
+  <img align="left" alt="Tor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-plain.svg" />
   <img align="left" alt="Microsoft Edge" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Edge_logo_%282020%29.svg" />
   <img align="left" alt="Office 365" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013-2019_logo.svg" />
 </p>

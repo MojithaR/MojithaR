@@ -78,8 +78,10 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 <!-- BEGIN CERTIFICATES -->
 [![.Net Full Stack Foundation](https://coursera.org/share/682DZNEBHDQN "View Certificate")](https://www.coursera.org/account/accomplishments/certificate/682DZNEBHDQN)
+[![Certificate Title](certificate_image_url "View Certificate")](certificate_link)
 <!-- END CERTIFICATES -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-More%20Certificates%20-red?style=for-the-badge&logo=certificate&logoColor=white"/>](#)
+
 
 <!--Enter Summary-->

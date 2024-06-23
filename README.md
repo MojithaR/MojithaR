@@ -47,7 +47,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   
 </div>
-
+---
 <!-- Tools -->
 <div style="padding-top: 20px;">
   <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
@@ -71,6 +71,3 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 </p>
 
-<br />
-
-#

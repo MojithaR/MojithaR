@@ -73,26 +73,13 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </div>
 </p> <br><br>
 
-<!--Enter Certificates details-->
-### 📜 Certificates
-
-<!-- BEGIN CERTIFICATES -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; text-align: center; width: 250px;">
-    <a href="https://www.coursera.org/account/accomplishments/certificate/682DZNEBHDQN" target="_blank">
-      <img src="https://www.coursera.org/images/coursera-logo.svg" alt=".Net Full Stack Foundation" style="width: 100%; border-radius: 5px;">
-      <div style="margin-top: 10px; font-weight: bold;">.Net Full Stack Foundation</div>
-    </a>
-  </div>
-  <div style="border: 1px solid #e1e4e8; border-radius: 5px; padding: 10px; text-align: center; width: 250px;">
-    <a href="https://www.coursera.org/account/accomplishments/certificate/sample_link" target="_blank">
-      <img src="https://www.coursera.org/images/coursera-logo.svg" alt="JavaScript Essentials" style="width: 100%; border-radius: 5px;">
-      <div style="margin-top: 10px; font-weight: bold;">JavaScript Essentials</div>
-    </a>
-  </div>
-</div>
-<!-- END CERTIFICATES -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-More%20Certificates%20-red?style=for-the-badge&logo=certificate&logoColor=white"/>](#)
-
 <!--Enter Summary-->
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#

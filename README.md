@@ -81,7 +81,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 ![Mojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox)
 
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-MojithaR.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-MojithaR.vercel.app/api/top-langs/?username=MojithaR&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 

@@ -32,6 +32,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 <p align="left">
   <!-- Languages -->
+<!-- Languages -->
 <div style="padding-bottom: 20px;">
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -45,10 +46,10 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  
 </div>
+
 <!-- Tools -->
-<div style="padding-top: 20px;">
+<div style="padding-top: 20px; clear: left;">
   <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Kali-linux-logo.svg" />
   <img align="left" alt="Arch WSL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Archlinux-logo-standard-version.png" />
@@ -66,7 +67,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Tor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tor/tor-original.svg" />
   <img align="left" alt="Microsoft Edge" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Edge_logo_%282020%29.svg" />
   <img align="left" alt="Office 365" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013-2019_logo.svg" />
-  </div>
+</div>
 
 </p>
 

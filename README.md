@@ -2,12 +2,11 @@
 
 **`Digital Sentinel (Developer/Attacker/Defender/Creator)`**
 
-I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
+ᴵ ᵃᵐ ᵈᵉᵈⁱᶜᵃᵗᵉᵈ ᵗᵒ ᶜʳᵉᵃᵗⁱⁿᵍ ⁱⁿⁿᵒᵛᵃᵗⁱᵛᵉ ˢᵒˡᵘᵗⁱᵒⁿˢ ᵗᵒ ʳᵉᵃˡ⁻ʷᵒʳˡᵈ ᵖʳᵒᵇˡᵉᵐˢ ᵘˢⁱⁿᵍ ᵐʸ ᴵᵀ ᵉˣᵖᵉʳᵗⁱˢᵉ. ᵂⁱᵗʰ ᵃ ᶠᵒᶜᵘˢ ᵒⁿ ᵉᵗʰⁱᶜᵃˡ ᶜʸᵇᵉʳˢᵉᶜᵘʳⁱᵗʸ, ᴵ ᵉⁿᵍᵃᵍᵉ ⁱⁿ ᵇᵒᵗʰ ᵒᶠᶠᵉⁿˢⁱᵛᵉ ᵃⁿᵈ ᵈᵉᶠᵉⁿˢⁱᵛᵉ ᵐᵉᵃˢᵘʳᵉˢ ᵗᵒ ᵖʳᵒᵗᵉᶜᵗ ᵈⁱᵍⁱᵗᵃˡ ˢʸˢᵗᵉᵐˢ. ᴹʸ ᵉˣᵖᵉʳⁱᵉⁿᶜᵉ ⁱⁿᶜˡᵘᵈᵉˢ ᵈᵉᵛᵉˡᵒᵖⁱⁿᵍ ˢᵉᶜᵘʳᵉ ᵂⁱⁿᵈᵒʷˢ ᵃᵖᵖˡⁱᶜᵃᵗⁱᵒⁿˢ ᵃⁿᵈ ʷᵉᵇ ᵖᵃᵍᵉˢ, ᶜᵒⁿᵗⁱⁿᵘᵒᵘˢˡʸ ʰᵒⁿⁱⁿᵍ ᵐʸ ˢᵏⁱˡˡˢ ᵗᵒ ᵇᵉᶜᵒᵐᵉ ᵃ ᵖʳᵒᶠⁱᶜⁱᵉⁿᵗ ᵉᵗʰⁱᶜᵃˡ ʰᵃᶜᵏᵉʳ.
 
-My achievements include winning several hackathons, gaining valuable experience, and earning rewards. Beyond my professional endeavors, I am an island-level chess player and a state-level basketball player. I also indulge in traveling and photography, capturing and enjoying the beauty of the world.
+ᴹʸ ᵃᶜʰⁱᵉᵛᵉᵐᵉⁿᵗˢ ⁱⁿᶜˡᵘᵈᵉ ʷⁱⁿⁿⁱⁿᵍ ˢᵉᵛᵉʳᵃˡ ʰᵃᶜᵏᵃᵗʰᵒⁿˢ, ᵍᵃⁱⁿⁱⁿᵍ ᵛᵃˡᵘᵃᵇˡᵉ ᵉˣᵖᵉʳⁱᵉⁿᶜᵉ, ᵃⁿᵈ ᵉᵃʳⁿⁱⁿᵍ ʳᵉʷᵃʳᵈˢ. ᴮᵉʸᵒⁿᵈ ᵐʸ ᵖʳᵒᶠᵉˢˢⁱᵒⁿᵃˡ ᵉⁿᵈᵉᵃᵛᵒʳˢ, ᴵ ᵃᵐ ᵃⁿ ⁱˢˡᵃⁿᵈ⁻ˡᵉᵛᵉˡ ᶜʰᵉˢˢ ᵖˡᵃʸᵉʳ ᵃⁿᵈ ᵃ ˢᵗᵃᵗᵉ⁻ˡᵉᵛᵉˡ ᵇᵃˢᵏᵉᵗᵇᵃˡˡ ᵖˡᵃʸᵉʳ. ᴵ ᵃˡˢᵒ ⁱⁿᵈᵘˡᵍᵉ ⁱⁿ ᵗʳᵃᵛᵉˡⁱⁿᵍ ᵃⁿᵈ ᵖʰᵒᵗᵒᵍʳᵃᵖʰʸ, ᶜᵃᵖᵗᵘʳⁱⁿᵍ ᵃⁿᵈ ᵉⁿʲᵒʸⁱⁿᵍ ᵗʰᵉ ᵇᵉᵃᵘᵗʸ ᵒᶠ ᵗʰᵉ ʷᵒʳˡᵈ.
 
-Currently, I work as a secure software engineer. In my spare time, I volunteer by teaching mathematics to underprivileged students who cannot afford an education, providing them with the opportunities they deserve.
-
+ᶜᵘʳʳᵉⁿᵗˡʸ, ᴵ ʷᵒʳᵏ ᵃˢ ᵃ ˢᵉᶜᵘʳᵉ ˢᵒᶠᵗʷᵃʳᵉ ᵉⁿᵍⁱⁿᵉᵉʳ. ᴵⁿ ᵐʸ ˢᵖᵃʳᵉ ᵗⁱᵐᵉ, ᴵ ᵛᵒˡᵘⁿᵗᵉᵉʳ ᵇʸ ᵗᵉᵃᶜʰⁱⁿᵍ ᵐᵃᵗʰᵉᵐᵃᵗⁱᶜˢ ᵗᵒ ᵘⁿᵈᵉʳᵖʳⁱᵛⁱˡᵉᵍᵉᵈ ˢᵗᵘᵈᵉⁿᵗˢ ʷʰᵒ ᶜᵃⁿⁿᵒᵗ ᵃᶠᶠᵒʳᵈ ᵃⁿ ᵉᵈᵘᶜᵃᵗⁱᵒⁿ, ᵖʳᵒᵛⁱᵈⁱⁿᵍ ᵗʰᵉᵐ ʷⁱᵗʰ ᵗʰᵉ ᵒᵖᵖᵒʳᵗᵘⁿⁱᵗⁱᵉˢ ᵗʰᵉʸ ᵈᵉˢᵉʳᵛᵉ.
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 

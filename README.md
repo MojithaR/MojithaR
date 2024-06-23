@@ -71,17 +71,18 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Winodws Applications" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="left" alt="Google cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" />
 </div>
-</p>
+</p> <br><br>
 
 <!--Enter Certificates details-->
 ### 📜 Certificates
 
 <!-- BEGIN CERTIFICATES -->
 [![.Net Full Stack Foundation](https://coursera.org/share/682DZNEBHDQN "View Certificate")](https://www.coursera.org/account/accomplishments/certificate/682DZNEBHDQN)
-[![Certificate Title](certificate_image_url "View Certificate")](certificate_link)
+[![JavaScript Essentials](https://coursera.org/share/sample_link "View Certificate")](https://www.coursera.org/account/accomplishments/certificate/sample_link)
 <!-- END CERTIFICATES -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-More%20Certificates%20-red?style=for-the-badge&logo=certificate&logoColor=white"/>](#)
+
 
 
 <!--Enter Summary-->

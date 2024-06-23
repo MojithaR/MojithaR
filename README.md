@@ -46,7 +46,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Atom" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
-  <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Canva_Logo.png" />
+  <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="left" alt="Luminar Neo" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Luminar_Neo_logo.png" />
   <img align="left" alt="Capcut" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CapCut_Logo.png" />

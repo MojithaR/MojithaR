@@ -2,11 +2,11 @@
 
 **`Digital Sentinel (Developer/Attacker/Defender/Creator)`**
 
-'I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
+I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
 
 My achievements include winning several hackathons, gaining valuable experience, and earning rewards. Beyond my professional endeavors, I am an island-level chess player and a state-level basketball player. I also indulge in traveling and photography, capturing and enjoying the beauty of the world.
 
-Currently, I work as a secure software engineer. In my spare time, I volunteer by teaching mathematics to underprivileged students who cannot afford an education, providing them with the opportunities they deserve.'
+Currently, I work as a secure software engineer. In my spare time, I volunteer by teaching mathematics to underprivileged students who cannot afford an education, providing them with the opportunities they deserve.
 
    <p align="left">
       <!-- Linkedin Profile -->
@@ -31,7 +31,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <!-- Languages -->
 <!-- Languages -->
 <div style="padding-bottom: 20px;">
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -47,7 +46,9 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
-<!-- Add some space here (optional) -->
+</p>
+
+<p align="left">
 <!-- Tools -->
 <div style="padding-top: 20px; clear: left;">
   <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
@@ -69,6 +70,5 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Winodws Applications" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="left" alt="Google cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" />
 </div>
-
 </p>
 

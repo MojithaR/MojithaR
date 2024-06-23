@@ -51,22 +51,23 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 <!-- Tools -->
 <div style="padding-top: 20px; clear: left;">
   <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Kali-linux-logo.svg" />
-  <img align="left" alt="Arch WSL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Archlinux-logo-standard-version.png" />
+  <img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+  <img align="left" alt="Arch WSL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="left" alt="RedHat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" />
   <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="left" alt="Atom" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="left" alt="Luminar Neo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-plain.svg" />
   <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Visual Studio IDE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="left" alt="Git Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />
   <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" />
   <img align="left" alt="Firefox" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
-  <img align="left" alt="Tor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tor/tor-original.svg" />
-  <img align="left" alt="Microsoft Edge" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Edge_logo_%282020%29.svg" />
-  <img align="left" alt="Office 365" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013-2019_logo.svg" />
+  <img align="left" alt="Tor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/perl/perl-plain.svg" />
+  <img align="left" alt="Winodws Applications" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 </div>
 
 </p>

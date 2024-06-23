@@ -78,10 +78,15 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox)
+![Mojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+<!--Support from fans-->
 #
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MojithaR"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MojithaR" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/mojithar">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MojithaR" />
+  </a>
+</p>
+<br><br>
+

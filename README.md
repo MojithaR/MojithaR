@@ -80,6 +80,15 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 ![Mojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox)
 
+<!--my contribution-->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <!--Support from fans-->
 #
 <h3 align="left">Support:</h3>
@@ -89,4 +98,5 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   </a>
 </p>
 <br><br>
+
 

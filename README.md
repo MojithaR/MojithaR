@@ -88,7 +88,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   </tr>
 </table>
 
-
 <!--Support from fans-->
 #
 <h3 align="left">Support:</h3>

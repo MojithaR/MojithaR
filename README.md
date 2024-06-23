@@ -48,8 +48,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Atom" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="left" alt="Luminar Neo" width="30px" style="padding-right:10px;" src="[https://asset.brandfetch.io/idihf2cdYd/idkHc4MW1X.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg")" />
-  <img align="left" alt="Capcut" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CapCut_Logo.png" />
   <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Visual Studio IDE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="left" alt="Burpsuite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burp_Suite_Logo.png/600px-Burp_Suite_Logo.png" />

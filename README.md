@@ -8,12 +8,22 @@
 
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸 𝚠𝚘𝚛𝚔 𝚊𝚜 𝚊 𝚜𝚎𝚌𝚞𝚛𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛. 𝙸𝚗 𝚖𝚢 𝚜𝚙𝚊𝚛𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚟𝚘𝚕𝚞𝚗𝚝𝚎𝚎𝚛 𝚋𝚢 𝚝𝚎𝚊𝚌𝚑𝚒𝚗𝚐 𝚖𝚊𝚝𝚑𝚎𝚖𝚊𝚝𝚒𝚌𝚜 𝚝𝚘 𝚞𝚗𝚍𝚎𝚛𝚙𝚛𝚒𝚟𝚒𝚕𝚎𝚐𝚎𝚍 𝚜𝚝𝚞𝚍𝚎𝚗𝚝𝚜 𝚠𝚑𝚘 𝚌𝚊𝚗𝚗𝚘𝚝 𝚊𝚏𝚏𝚘𝚛𝚍 𝚊𝚗 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗, 𝚙𝚛𝚘𝚟𝚒𝚍𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜 𝚝𝚑𝚎𝚢 𝚍𝚎𝚜𝚎𝚛𝚟𝚎.
    <p align="left">
+      <!-- Linkedin Profile -->
    <a href="https://www.linkedin.com/in/mojitha-ranasinghe-002358279/">
       <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a>
+      <!-- Github Profile -->
       <a href="https://github.com/MojithaR">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MojithaR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <!-- Github Stars -->
    <a href="https://github.com/MojithaR?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MojithaR?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <!-- Hack The Box Profile -->
+   <a href="https://ctf.hackthebox.com/user/profile/338263">
+      <img alt="Hack The Box" title="Check out my Hack The Box profile" src="https://custom-icon-badges.demolab.com/badge/Hack%20The%20Box-Profile-green?logo=hackthebox&logoColor=white&style=for-the-badge&labelColor=3E8E41"/></a>
+   
+   <!-- Discord Profile -->
+   <a href="https://discord.com/users/mojitha__79082">
+      <img alt="Discord" title="Connect with me on Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-mojitha__79082-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=5865F2"/></a>
    </p>
 
 ---

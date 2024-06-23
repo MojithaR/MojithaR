@@ -50,7 +50,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Visual Studio IDE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="left" alt="Burpsuite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burp_Suite_Logo.png/600px-Burp_Suite_Logo.png" />
+  <img align="left" alt="RedHat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain.svg" />
   <img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.png" />
   <img align="left" alt="Packet Tracer" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Cisco_Packet_Tracer_Logo.png" />
   <img align="left" alt="Arch WSL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Archlinux-logo-standard-version.png" />

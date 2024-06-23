@@ -2,7 +2,11 @@
 
 **`Digital Sentinel (Developer/Attacker/Defender/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
+
+My achievements include winning several hackathons, gaining valuable experience, and earning rewards. Beyond my professional endeavors, I am an island-level chess player and a state-level basketball player. I also indulge in traveling and photography, capturing and enjoying the beauty of the world.
+
+Currently, I work as a secure software engineer. In my spare time, I volunteer by teaching mathematics to underprivileged students who cannot afford an education, providing them with the opportunities they deserve.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">

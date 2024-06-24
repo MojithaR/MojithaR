@@ -30,17 +30,20 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
    <!-- Discord Profile -->
    <a href="https://discord.com/users/mojitha__79082">
       <img alt="Discord" title="Connect with me on Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-mojitha__79082-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=5865F2"/></a>
+      <br>
 <!-- Profile Views -->
-<br>
-<a href="https://github.com/MojithaR">
-    <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&color=blueviolet"/>
-</a>
+<div style="float: left; margin-right: 10px;">
+    <a href="https://github.com/MojithaR">
+        <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&color=blueviolet" style="width: 130px; height: 28px;">
+    </a>
+</div>
 
 <!-- Repository Views -->
-<br>
-<a href="https://github.com/MojithaR?tab=repositories">
-    <img alt="repository views" title="Repository views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&label=Repository%20Views&color=green"/>
-</a>
+<div style="float: right; margin-left: 10px;">
+    <a href="https://github.com/MojithaR?tab=repositories">
+        <img alt="repository views" title="Repository views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&label=Repository%20Views&color=green" style="width: 130px; height: 28px;">
+    </a>
+</div>
 
    </p>
 

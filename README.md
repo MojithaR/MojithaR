@@ -30,8 +30,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
    <!-- Discord Profile -->
    <a href="https://discord.com/users/mojitha__79082">
       <img alt="Discord" title="Connect with me on Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-mojitha__79082-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=5865F2"/></a>
-</p> <br>
-
 <p align="left">  
 <!-- Profile Views -->
 <div margin-right: 10px; margin-right: 15px;">

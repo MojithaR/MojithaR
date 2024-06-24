@@ -24,6 +24,12 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MojithaR?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 
+<!-- Hack The Box Profile -->
+   <a href="https://ctf.hackthebox.com/user/profile/338263">
+      <img alt="Hack The Box" title="Check out my Hack The Box profile" src="https://custom-icon-badges.demolab.com/badge/Hack%20The%20Box-Profile-green?logo=hackthebox&logoColor=white&style=for-the-badge&labelColor=3E8E41"/></a>
+   <!-- Discord Profile -->
+   <a href="https://discord.com/users/mojitha__79082">
+      <img alt="Discord" title="Connect with me on Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-mojitha__79082-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=5865F2"/></a>
 <!-- Profile Views -->
 <br>
 <a href="https://github.com/MojithaR">
@@ -36,13 +42,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
     <img alt="repository views" title="Repository views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&label=Repository%20Views&color=green"/>
 </a>
 
-
-<!-- Hack The Box Profile -->
-   <a href="https://ctf.hackthebox.com/user/profile/338263">
-      <img alt="Hack The Box" title="Check out my Hack The Box profile" src="https://custom-icon-badges.demolab.com/badge/Hack%20The%20Box-Profile-green?logo=hackthebox&logoColor=white&style=for-the-badge&labelColor=3E8E41"/></a>
-   <!-- Discord Profile -->
-   <a href="https://discord.com/users/mojitha__79082">
-      <img alt="Discord" title="Connect with me on Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-mojitha__79082-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=5865F2"/></a>
    </p>
 
 ---

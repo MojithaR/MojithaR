@@ -37,7 +37,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
  </a>
 <!-- Repository Views -->
 <a href="https://github.com/MojithaR?tab=repositories">
-   <img alt="repository views" title="Repository views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&label=Repository%20Views&color=green" style="width: 160px; height: 30px;">
+   <img alt="repository views" title="Repository views on GitHub" src="https://img.shields.io/github/repo-views/MojithaR?color=green&label=Repository%20Views&style=for-the-badge&logo=github&logoColor=white&labelColor=green">
 </a>
 </p>
 

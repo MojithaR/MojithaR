@@ -13,12 +13,24 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
    <a href="https://www.linkedin.com/in/mojitha-ranasinghe-002358279/">
       <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/></a>
       <!-- Github Profile -->
-      <a href="https://github.com/MojithaR">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MojithaR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <!-- Github Stars -->
-   <a href="https://github.com/MojithaR?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MojithaR?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <!-- Hack The Box Profile -->
+<a href="https://github.com/MojithaR">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MojithaR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    68.7k</a>
+<!-- Github Stars -->
+<a href="https://github.com/MojithaR?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MojithaR?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    158.7k</a>
+<!-- Profile Views -->
+<br>
+<a href="https://github.com/MojithaR">
+    <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&color=blueviolet"/>
+    Profile Views</a>
+<!-- Repository Views -->
+<br>
+<a href="https://github.com/MojithaR?tab=repositories">
+    <img alt="repository views" title="Repository views on GitHub" src="https://komarev.com/ghpvc/?username=MojithaR&label=Repository%20Views&color=green"/>
+    Repository Views</a>
+<!-- Hack The Box Profile -->
    <a href="https://ctf.hackthebox.com/user/profile/338263">
       <img alt="Hack The Box" title="Check out my Hack The Box profile" src="https://custom-icon-badges.demolab.com/badge/Hack%20The%20Box-Profile-green?logo=hackthebox&logoColor=white&style=for-the-badge&labelColor=3E8E41"/></a>
    <!-- Discord Profile -->

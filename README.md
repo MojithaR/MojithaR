@@ -98,7 +98,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
       <img src="https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox" alt="Mojitha's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=12" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=16" alt="Most Used Languages" />
     </td>
   </tr>
 </table>

@@ -92,19 +92,22 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 #
 ### 📊 Stats
 
-<table>
+<!-- GitHub Stats and Most Used Languages Table -->
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox" alt="Mojitha's GitHub stats" />
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&theme=gruvbox&count_private=true" alt="Mojitha's GitHub stats" style="border-radius: 10px; width: 100%;" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=16" alt="Most Used Languages" />
+    <td style="width: 50%; padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=20" alt="Most Used Languages" style="border-radius: 10px; width: 100%;" />
     </td>
   </tr>
 </table>
 
-
-![](https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png)
+<!-- Decorative Header Image -->
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
+</div>
 
 
 

@@ -16,12 +16,12 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 <!-- GitHub Followers -->
 <a href="https://github.com/MojithaR">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MojithaR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MojithaR?label=Follow&style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba"/>
 </a>
 
 <!-- GitHub Stars -->
-<a href="https://github.com/MojithaR?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MojithaR?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+<a href="https://github.com/MojithaR?tab=repositories">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/MojithaR?style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 
    <!-- Hack The Box Profile -->

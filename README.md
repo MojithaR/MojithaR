@@ -2,7 +2,7 @@
 
 **`Digital Sentinel (Developer/Attacker/Defender/Creator)`**
 
-I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
+
 
 My achievements include winning several hackathons, gaining valuable experience, and earning rewards. Beyond my professional endeavors, I am an island-level chess player and a state-level basketball player. I also indulge in traveling and photography, capturing and enjoying the beauty of the world.
 

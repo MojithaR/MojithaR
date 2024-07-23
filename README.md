@@ -1,5 +1,5 @@
 # 🥷 Tithira Mojitha
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 **`Digital Sentinel (Developer/Attacker/Defender/Creator)`**
 
 I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
@@ -42,7 +42,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
 
 ### 🧰 Languages and Tools
 
@@ -88,7 +87,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Google cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" />
 </div>
 </p> <br><br>
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--Enter Summary-->
 #
 ### 📊 Stats

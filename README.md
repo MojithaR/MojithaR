@@ -1,5 +1,5 @@
 # 🥷 Tithira Mojitha
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 **`Digital Sentinel (Developer/Attacker/Defender/Creator)`**
 
 I am dedicated to creating innovative solutions to real-world problems using my IT expertise. With a focus on ethical cybersecurity, I engage in both offensive and defensive measures to protect digital systems. My experience includes developing secure Windows applications and web pages, continuously honing my skills to become a proficient ethical hacker.
@@ -87,9 +87,10 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img align="left" alt="Google cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" />
 </div>
 </p> <br><br>
+
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--Enter Summary-->
-#
+
 ### 📊 Stats
 
 <!-- GitHub Stats and Most Used Languages Table -->
@@ -105,13 +106,13 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </table>
 
 
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Decorative Header Image -->
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
 </div>
 
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--Support from fans-->
 #
 <h3 align="left">Support:</h3>
@@ -121,5 +122,5 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   </a>
 </p>
 <br><br>
-
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

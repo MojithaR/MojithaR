@@ -114,14 +114,13 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Troophies : Change to badges that u earn add above or to banner-->
-</p>
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Trophies: Customised GitHub Profile Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MojithaR&theme=tokyonight" alt="MojithaR" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MojithaR&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&rank=-C,-B&title=MultipleLang,Commit,Issue,PullRequest,Repo,Star" alt="MojithaR's GitHub Trophies" />
   </a> 
 </p>
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

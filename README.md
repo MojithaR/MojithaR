@@ -100,8 +100,8 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
       <img src="https://streak-stats.demolab.com?user=MojithaR&theme=gruvbox&hide_border=true" alt="Mojitha's GitHub Streak Stats" style="border-radius: 10px; width: 100%;" />
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=20" alt="Most Used Languages" style="border-radius: 10px; width: 100%;" />
-    </td>
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=20&v=1" alt="Most Used Languages" style="border-radius: 10px; width: 100%;" />
+</td>
   </tr>
 </table>
 

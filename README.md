@@ -119,12 +119,13 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=9&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&include_all_commits=true&count_private=true" />
   
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
+
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

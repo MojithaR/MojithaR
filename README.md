@@ -41,8 +41,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 🧰 Languages and Tools
 
 <p align="left">
@@ -88,9 +86,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </div>
 </p> <br><br>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--Enter Summary-->
-
 ### 📊 Stats
 
 <!-- GitHub Stats and Most Used Languages Table -->
@@ -112,8 +107,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Trophies : Change to badges that you earn add above or to banner-->
 </p>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -122,8 +115,6 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MojithaR&theme=tokyonight&count_private=true" alt="MojithaR" />
   </a> 
 </p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Support from fans-->
 
@@ -135,4 +126,3 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </p>
 <br><br>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-

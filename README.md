@@ -88,17 +88,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 ### 📊 Stats
 
-<!-- GitHub Stats and Most Used Languages Table -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <img src="https://streak-stats.demolab.com?user=MojithaR&theme=gruvbox&hide_border=true" alt="Mojitha's GitHub Streak Stats" style="border-radius: 10px; width: 100%;" />
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&hide_border=true&langs_count=20&include_all_commits=true&count_private=true" alt="Most Used Languages" style="border-radius: 10px; width: 100%;" />
-    </td>
-  </tr>
-</table>
+
 
 <!-- Decorative Header Image -->
 <div style="text-align: center; margin-top: 20px;">

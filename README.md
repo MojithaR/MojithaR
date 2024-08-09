@@ -122,7 +122,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
     <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/m7Bc3pLyij0/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
   </p>
 
-  <p>🎵 Check out these playlists on my <a href="https://www.youtube.com/">YouTube channel</a>!</p>
+  <p>🎵 Check out these playlists on my <a href="https://www.youtube.com/@mojitharanasingha9808">YouTube channel</a>!</p>
   
 </details>
 

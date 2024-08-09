@@ -114,15 +114,16 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <!-- YouTube Playlist Cards -->
   
   <p align="center">
-    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_HACKATHON/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
-    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_PARTTIME/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
-    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" title="Coding Tracks-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_CODING_TRACKS/maxresdefault.jpg" width="250" alt="Coding Tracks-Moji Playlist"></a>
-    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gS-PvOWD10WGzzxkKhFxsT" title="90's Vibe-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_90S_VIBE/maxresdefault.jpg" width="250" alt="90's Vibe-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/0G2VxhV_gXM/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/DwuJeGYlYyw/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" title="Coding Tracks-Moji"><img src="https://img.youtube.com/vi/LegZGM-sHnY/maxresdefault.jpg" width="250" alt="Coding Tracks-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gEgVBl6l0QRf4qBYvRZHOx" title="90's Vibe-Moji"><img src="https://img.youtube.com/vi/psuRGfAaju4/maxresdefault.jpg" width="250" alt="90's Vibe-Moji Playlist"></a>
   </p>
 
-  <p>🎵 Check out these playlists on my <a href="[https://www.youtube.com/](https://www.youtube.com/@mojitharanasingha9808/playlists)">YouTube channel</a>!</p>
+  <p>🎵 Check out these playlists on my <a href="https://www.youtube.com/">YouTube channel</a>!</p>
   
 </details>
+
 
 <!--End of songlist-->
 

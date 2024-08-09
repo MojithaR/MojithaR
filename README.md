@@ -120,5 +120,13 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MojithaR" />
   </a>
 </p>
+## 🎵 Background Music
+
+<p align="center">
+  <audio controls>
+    <source src="https://your-github-repo-path/your-audio-file.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</p>
 <br><br>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -109,6 +109,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MojithaR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Mojitha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MojithaR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--Support from fans-->
 
 <h3 align="left">Support:</h3>

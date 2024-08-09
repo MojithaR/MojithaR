@@ -87,17 +87,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </p> <br><br>
 
 ### 📊 Stats
-<!-- GitHub Stats and Most Used Languages Table -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <img src="https://streak-stats.demolab.com?user=MojithaR&theme=gruvbox&hide_border=true" alt="Mojitha's GitHub Streak Stats" style="border-radius: 10px; width: 100%;" />
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&hide_border=true&langs_count=20&include_all_commits=true&count_private=true" alt="Most Used Languages" style="border-radius: 10px; width: 100%;" />
-    </td>
-  </tr>
-</table>
+
 
 
 <!-- Decorative Header Image -->
@@ -105,13 +95,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
 </div>
 
-<!-- Trophies : Change to badges that you earn add above or to banner-->
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MojithaR&theme=tokyonight&count_private=true" alt="MojithaR" />
-  </a> 
-</p>
+
 
 <!--Support from fans-->
 

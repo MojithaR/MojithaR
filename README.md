@@ -108,29 +108,22 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 [![trophy](https://github-profile-trophy.vercel.app/?username=MojithaR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--Favourite YT songs-->
-<p align="center">
-  <strong>Hackathon-Moji</strong>
-  <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<details>
+  <summary><h2>🎵 Favorite YouTube Playlists</h2></summary>
 
-<p align="center">
-  <strong>At Parttime-Moji</strong>
-  <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+  <!-- YouTube Playlist Cards -->
+  
+  <p align="center">
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_HACKATHON/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_PARTTIME/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" title="Coding Tracks-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_CODING_TRACKS/maxresdefault.jpg" width="250" alt="Coding Tracks-Moji Playlist"></a>
+    <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gS-PvOWD10WGzzxkKhFxsT" title="90's Vibe-Moji"><img src="https://img.youtube.com/vi/VIDEO_ID_90S_VIBE/maxresdefault.jpg" width="250" alt="90's Vibe-Moji Playlist"></a>
+  </p>
 
-<p align="center">
-  <strong>Coding Tracks-Moji</strong>
-  <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+  <p>🎵 Check out these playlists on my <a href="[https://www.youtube.com/](https://www.youtube.com/@mojitharanasingha9808/playlists)">YouTube channel</a>!</p>
+  
+</details>
 
-<p align="center">
-  <strong>90's Vibe-Moji</strong>
-  <br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2gS-PvOWD10WGzzxkKhFxsT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 <!--End of songlist-->
 
 <!--Support from fans-->

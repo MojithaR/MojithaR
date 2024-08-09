@@ -105,11 +105,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
 </div>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MojithaR&theme=tokyonight&count_private=true&private=true" alt="MojithaR" />
-  </a> 
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MojithaR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--Support from fans-->
 

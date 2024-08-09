@@ -121,14 +121,5 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   </a>
 </p>
 
-## 🎵 Background Music
-
-<p align="center">
-  <audio controls>
-    <source src="https://github.com/MojithaR/MojithaR/raw/main/My%20Neighbor%20Totoro%20_%2010%20Minute%20Timer.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</p>
-
 <br><br>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

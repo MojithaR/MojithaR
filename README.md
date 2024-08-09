@@ -99,20 +99,9 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   </tr>
 </table>
 
-<!-- Decorative Header Image -->
-<div style="text-align: center; margin-top: 20px;">
-  <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
-</div>
-
-<!--trophy system-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MojithaR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--Favourite YT songs-->
-<details>
-  <summary><h2>🎵 Favorite YouTube Playlists</h2></summary>
-
+### 🎵Favorite YouTube Playlists
   <!-- YouTube Playlist Cards -->
-  
   <p align="center">
     <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/0G2VxhV_gXM/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
     <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/DwuJeGYlYyw/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
@@ -121,13 +110,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
     <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/U0tOvqAmcb8/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
     <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/m7Bc3pLyij0/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
   </p>
-
   <p>🎵 Check out these playlists on my <a href="https://www.youtube.com/@mojitharanasingha9808">YouTube channel</a>!</p>
-  
-</details>
-
-
-
 <!--End of songlist-->
 
 <!--Support from fans-->

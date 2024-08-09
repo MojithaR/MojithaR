@@ -99,19 +99,41 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   </tr>
 </table>
 
-![Mojithas's github stats](https://github-readme-stats.vercel.app/api?username=MojithaR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
 <!-- Decorative Header Image -->
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png" alt="Header Image" style="width: 80%; border-radius: 10px;" />
 </div>
 
+<!--trophy system-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MojithaR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Mojitha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MojithaR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--Support from fans-->
+<!--Favourite YT songs-->
+<p align="center">
+  <strong>Hackathon-Moji</strong>
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
+<p align="center">
+  <strong>At Parttime-Moji</strong>
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p align="center">
+  <strong>Coding Tracks-Moji</strong>
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p align="center">
+  <strong>90's Vibe-Moji</strong>
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-zEg_Bm4j2gS-PvOWD10WGzzxkKhFxsT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--End of songlist-->
+
+<!--Support from fans-->
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/mojithar">

@@ -94,10 +94,11 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
       ![MojithaR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MojithaR&theme=highcontrast&hide_border=false)
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&layout=compact&theme=react&hide_border=true&langs_count=20&include_all_commits=true&count_private=true" alt="Most Used Languages" style="border-radius: 10px; width: 100%;" />
+      ![MojithaR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
     </td>
   </tr>
 </table>
+
 
 <!--Favourite YT songs-->
 ### 📻Favorite YouTube Playlists

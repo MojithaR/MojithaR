@@ -87,17 +87,14 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 </p> <br><br>
 
 ### 📊 Stats
-<!-- GitHub Stats and Most Used Languages Table -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      ![MojithaR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MojithaR&theme=highcontrast&hide_border=false)
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top;">
-      ![MojithaR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MojithaR&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Most Used Languages" />
+</p>
 
 
 <!--Favourite YT songs-->

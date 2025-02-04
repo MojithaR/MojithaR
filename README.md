@@ -91,14 +91,15 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MojithaR&theme=highcontrast&hide_border=false" alt="GitHub Streak" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=MojithaR&theme=dark&hide_border=false';" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=MojithaR&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+      </a>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&layout=compact&langs_count=100&include_all_commits=true&count_private=true" alt="All Languages" />
     </td>
   </tr>
 </table>
-
 
 <!--Favourite YT songs-->
 ### 📻Favorite YouTube Playlists

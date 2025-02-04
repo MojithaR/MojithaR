@@ -92,7 +92,7 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=MojithaR&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" />
       </a>
     </td>
     <td>

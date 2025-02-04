@@ -88,13 +88,16 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MojithaR&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MojithaR&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MojithaR&theme=highcontrast&show_icons=true&hide_border=false&layout=compact&langs_count=100&include_all_commits=true&count_private=true" alt="All Languages" />
+    </td>
+  </tr>
+</table>
 
 
 <!--Favourite YT songs-->

@@ -105,21 +105,43 @@ Currently, I work as a secure software engineer. In my spare time, I volunteer b
 ### 📻 Favorite YouTube Playlists
 <!-- YouTube Playlist Cards -->
 <p align="center">
-  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/qlOPl2uxKbs/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
-  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/DwuJeGYlYyw/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
-  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" title="Coding Tracks-Moji"><img src="https://img.youtube.com/vi/LegZGM-sHnY/maxresdefault.jpg" width="250" alt="Coding Tracks-Moji Playlist"></a>
-  <a href="https://www.youtube.com/watch?v=4JK_Lg8P7PU" title="90's Vibe-Moji"><img src="https://img.youtube.com/vi/4JK_Lg8P7PU/maxresdefault.jpg" width="250" alt="90's Vibe-Moji Playlist"></a>
-  <a href="https://www.youtube.com/watch?v=U0tOvqAmcb8" title="Hackathon-Moji"><img src="https://img.youtube.com/vi/U0tOvqAmcb8/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist"></a>
-  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji"><img src="https://img.youtube.com/vi/m7Bc3pLyij0/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist"></a>
+  <!-- Row 1 -->
+  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2jGESBA5E6OEjNgMoBmIMAP" title="Hackathon-Moji">
+    <img src="https://img.youtube.com/vi/qlOPl2uxKbs/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist">
+  </a>
+  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji">
+    <img src="https://img.youtube.com/vi/DwuJeGYlYyw/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist">
+  </a>
+  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2gVx1ZE-8qdfb19TAKT06VR" title="Coding Tracks-Moji">
+    <img src="https://img.youtube.com/vi/LegZGM-sHnY/maxresdefault.jpg" width="250" alt="Coding Tracks-Moji Playlist">
+  </a>
 
-  <!-- New Songs Added -->
-  <a href="https://www.youtube.com/watch?v=Q_RiJmvmcyQ&list=RDQMfd-ePur8i-8&index=4" title="New Song 1"><img src="https://img.youtube.com/vi/Q_RiJmvmcyQ/maxresdefault.jpg" width="250" alt="New Song 1"></a>
-  <a href="https://www.youtube.com/watch?v=29FUG72LVFE" title="New Song 2"><img src="https://img.youtube.com/vi/29FUG72LVFE/maxresdefault.jpg" width="250" alt="New Song 2"></a>
-  <a href="https://www.youtube.com/watch?v=qa4UU8-LqK0" title="New Song 3"><img src="https://img.youtube.com/vi/qa4UU8-LqK0/maxresdefault.jpg" width="250" alt="New Song 3"></a>
+  <!-- Row 2 -->
+  <a href="https://www.youtube.com/watch?v=4JK_Lg8P7PU" title="90's Vibe-Moji">
+    <img src="https://img.youtube.com/vi/4JK_Lg8P7PU/maxresdefault.jpg" width="250" alt="90's Vibe-Moji Playlist">
+  </a>
+  <a href="https://www.youtube.com/watch?v=U0tOvqAmcb8" title="Hackathon-Moji">
+    <img src="https://img.youtube.com/vi/U0tOvqAmcb8/maxresdefault.jpg" width="250" alt="Hackathon-Moji Playlist">
+  </a>
+  <a href="https://youtube.com/playlist?list=PL-zEg_Bm4j2h3I3I8hdxLgYOnON_ebx-N" title="At Parttime-Moji">
+    <img src="https://img.youtube.com/vi/m7Bc3pLyij0/maxresdefault.jpg" width="250" alt="At Parttime-Moji Playlist">
+  </a>
+
+  <!-- Row 3 - Newly Added Songs -->
+  <a href="https://www.youtube.com/watch?v=Q_RiJmvmcyQ&list=RDQMfd-ePur8i-8&index=4" title="New Song 1">
+    <img src="https://img.youtube.com/vi/Q_RiJmvmcyQ/maxresdefault.jpg" width="250" alt="New Song 1">
+  </a>
+  <a href="https://www.youtube.com/watch?v=29FUG72LVFE" title="New Song 2">
+    <img src="https://img.youtube.com/vi/29FUG72LVFE/maxresdefault.jpg" width="250" alt="New Song 2">
+  </a>
+  <a href="https://www.youtube.com/watch?v=qa4UU8-LqK0" title="New Song 3">
+    <img src="https://img.youtube.com/vi/qa4UU8-LqK0/maxresdefault.jpg" width="250" alt="New Song 3">
+  </a>
 </p>
 
 <p>🎙️ Check out these playlists on my <a href="https://www.youtube.com/@mojitharanasingha9808">YouTube channel</a>!</p>
 <!-- End of songlist -->
+
 
 
 
